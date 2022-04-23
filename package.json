@@ -1,0 +1,10 @@
+{
+    "name": "typescript",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {},
+    "devDependencies": {
+        "@types/node": "^17.0.25",
+        "tslib": "^2.4.0"
+    }
+}
